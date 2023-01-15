@@ -5,12 +5,10 @@
 ### Hey there 👋
 
 ---
-<!--
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/lmytime/lmytime/master/github-card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
--->
+
 I am <a href="https://lmytime.com" target="_blank"><span style="font-size:xx-large;font-family:'PT Mono', monospace">Mingyu Li 李明宇</span></a>,  a Ph.D. student in the [Department of Astronomy](https://astro.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
  :dizzy: I'm working on galaxy formation and evolution in the early universe. :wink:
