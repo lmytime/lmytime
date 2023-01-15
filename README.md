@@ -12,10 +12,8 @@
 
 I am an astronomy Ph.D. student at Tsinghua University :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
+ 🔭 I’m studying on the early Universe.
+  <!--
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
@@ -23,7 +21,7 @@ I am an astronomy Ph.D. student at Tsinghua University :wink:
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
+-->
 
 ![Profile views](https://gpvc.arturio.dev/lmytime)  <img src="https://img.shields.io/github/followers/lmytime?label=Follow" style=" float:left, margin-right:10px" />
 
@@ -54,13 +52,6 @@ I am an astronomy Ph.D. student at Tsinghua University :wink:
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lmytime&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/lmytime)
-
 
 ---
 
