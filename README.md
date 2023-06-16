@@ -19,7 +19,7 @@ I am <a href="https://lmytime.com" target="_blank"><span style="font-size:xx-lar
 
  :dog2: Interests: Dogs & Cats, Sleeping, and Coding.
 
-![Profile views](https://gpvc.arturio.dev/lmytime)
+
 <img src="https://img.shields.io/github/followers/lmytime?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
